@@ -1,0 +1,43 @@
+{
+    "count": 5,
+    "1":{
+        "question":"What is the correct syntax to print a message in the console in JavaScript?",
+        "correctAnswer": "console.log(\"Hello, World!\");",
+        "A":"console.print(\"Hello, World!\");",
+        "B":"print(\"Hello, World!\");",
+        "C":"log.console(\"Hello, World!\");",
+        "D":"console.log(\"Hello, World!\");"
+    },
+    "2":{
+        "question":"Which of the following is a way to declare a variable in JavaScript?",
+        "correctAnswer": "let x;",
+        "A":"let x;",
+        "B":"variable x;",
+        "C":"int x;",
+        "D":"script x"
+    },
+    "3":{
+        "question":"What is the output of the following code? let x = 5; let y = \"5\"; console.log(x == y);",
+        "correctAnswer": "true",
+        "A":"false",
+        "B":"true",
+        "C":"undefined",
+        "D":"TypeError"
+    },
+    "4":{
+        "question":"Which of the following is used to create an object in JavaScript?",
+        "correctAnswer": "let obj = {};",
+        "A":"let obj = Object.create();",
+        "B":"let obj = new Object;",
+        "C":"let obj = [];",
+        "D":"let obj = {};"
+    },
+    "5":{
+        "question":"What will the following code output? \n console.log(typeof null);",
+        "correctAnswer": "null",
+        "A":"null",
+        "B":"object",
+        "C":"undefined",
+        "D":"function"
+    }
+}

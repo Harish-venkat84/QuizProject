@@ -1,0 +1,54 @@
+{
+    "const mainEntities": {
+      "user_management": [
+        "users",
+        "roles",
+        "permissions",
+        "permission_entities",
+        "approvals"
+      ],
+      "client_management": [
+        "clients_dashboard",
+        "clients",
+        "kyc_submitted",
+        "account_enquiry"
+      ],
+      "earn": [
+        "earn_dashboard",
+        "earn_products",
+        "earn_simple_earn",
+        "earn_simple_earn_histories",
+        "earn_reports"
+      ],
+      "wallet": [
+        "wallet_balances",
+        "wallet_crypto_transactions",
+        "wallet_crypto_api_transactions",
+        "wallet_fiat_transactions",
+        "wallet_risk_management"
+      ],
+      "spot_order": [
+        "spot_order_open",
+        "spot_order_history",
+        "spot_order_trade_history",
+        "spot_order_execution",
+        "markets",
+        "spot_order_net_obligation"
+      ],
+      "futures": [
+        "futures_order_position",
+        "futures_order_open",
+        "futures_order_history",
+        "futures_order_trade_history",
+        "futures_order_execution",
+        "futures_markets",
+        "futures_order_net_obligation"
+      ],
+      "support_ticket": ["support_tickets"],
+      "client_group": ["client_groups"],
+      "lead_management": ["lead_management"],
+      "campaign_management": ["campaign_management", "campaigns", "tracking_url"],
+      "journal": ["journal"],
+      "export": ["export"]
+    }
+}
